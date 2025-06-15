@@ -1,2 +1,2 @@
 # supermercado-do-bom
-Cópia do respositorio original do site de supermercado
+Cópia do respositório original do site supermercadodobom

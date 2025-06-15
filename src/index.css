@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body{
+  overflow-x: hidden;
+  height: 100%;
+}
+
+html::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
+
+body {
+  background-color: rgb(240, 240, 240);
+  -ms-overflow-style: none;
+  width: 100%;
+  max-width: 1390px;
+  margin: auto;
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
